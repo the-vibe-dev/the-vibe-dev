@@ -33,9 +33,14 @@ A local-first AI safety project for families, with a visible Windows agent, a pa
 
 [Explore GuardianNode](https://github.com/the-vibe-dev/guardiannode)
 
+### Mosaivue
+
+A local-first RTSP camera wall for Raspberry Pi and Linux, with a visual layout editor, live HDMI layout changes without rebooting, and independently rotating tiles. Cameras, credentials, layouts, and previews stay on the appliance, with no required cloud account. It's now available as a **public beta**.
+
+[Explore Mosaivue](https://github.com/the-vibe-dev/mosaivue)
+
 ### More of my work
 
-- [Mosaivue](https://github.com/the-vibe-dev/mosaivue) — a local-first RTSP camera wall for Raspberry Pi and Linux, with a visual layout editor and independently rotating tiles; public beta.
 - [ThreatHive](https://github.com/the-vibe-dev/threathive-public) — defensive honeypot telemetry and controlled lab analysis; public alpha.
 - [Dashburg](https://github.com/the-vibe-dev/dashburg-public) — a local-first control center for agents, nodes, and AI infrastructure.
 
