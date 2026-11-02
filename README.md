@@ -35,6 +35,7 @@ A local-first AI safety project for families, with a visible Windows agent, a pa
 
 ### More of my work
 
+- [Mosaivue](https://github.com/the-vibe-dev/mosaivue) — a local-first RTSP camera wall for Raspberry Pi and Linux, with a visual layout editor and independently rotating tiles; public beta.
 - [ThreatHive](https://github.com/the-vibe-dev/threathive-public) — defensive honeypot telemetry and controlled lab analysis; public alpha.
 - [Dashburg](https://github.com/the-vibe-dev/dashburg-public) — a local-first control center for agents, nodes, and AI infrastructure.
 
