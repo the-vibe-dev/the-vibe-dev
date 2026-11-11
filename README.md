@@ -10,9 +10,9 @@ My research spans authorization failures, sandbox escapes, parsers and deseriali
 
 ## Security research
 
-My public work includes **49 CVEs**, **18 repository GitHub Security Advisories**, and **four accepted Linux mainline fixes**, across **54 CVE/GHSA-identified research cases**. The CVE total includes three Linux kernel findings. My kernel contributions include two authored SCTP patches and two KSMBD findings credited through `Reported-by`, with eighteen verified stable backports across those fixes.
+My public work includes **54 CVEs**, **18 repository GitHub Security Advisories**, and **four accepted Linux mainline fixes**, across **59 CVE/GHSA-identified research cases**. The CVE total includes three Linux kernel findings. My kernel contributions include two authored SCTP patches and two KSMBD findings credited through `Reported-by`, with eighteen verified stable backports across those fixes.
 
-I've contributed research affecting projects including **Apache HTTP Server, Apache Fory, vm2, PyJWT, TypeBox, isomorphic-git, fast-xml-parser, launch-editor, libheif, KEDA, and Yamcs**, alongside WordPress plugins and payment integrations. My additional public upstream work includes a reported libucl string-copy out-of-bounds read fixed by its maintainers.
+I've contributed research affecting projects including **Apache HTTP Server, Apache Fory, Apache OFBiz, vm2, PyJWT, TypeBox, isomorphic-git, fast-xml-parser, launch-editor, libheif, KEDA, and Yamcs**, alongside WordPress plugins and payment integrations. My additional public upstream work includes a reported libucl string-copy out-of-bounds read fixed by its maintainers.
 
 | Portfolio | What you'll find |
 |---|---|
@@ -50,4 +50,4 @@ I'm interested in collaborating with maintainers, security researchers, and buil
 
 [LinkedIn](https://www.linkedin.com/in/charles-vosburgh/) · [Security research](https://github.com/the-vibe-dev/CVE-GHSA) · [Linux contributions](https://github.com/the-vibe-dev/Linux-Kernel) · [SecHive.ai](https://sechive.ai)
 
-<sub>Public research totals updated November 2, 2026. CVE and GHSA counts overlap; libucl's unassigned finding is tracked separately.</sub>
+<sub>Public research totals updated November 11, 2026. CVE and GHSA counts overlap; libucl's unassigned finding is tracked separately.</sub>
