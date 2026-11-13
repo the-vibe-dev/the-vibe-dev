@@ -25,11 +25,15 @@ In cert-manager, my report led to a merged fix enforcing ownership of the Secret
 
 ### SecHive.ai
 
+SecHive is the cybersecurity research operation of **TideCore Technology Services LLC**, a North Carolina limited liability company formed November 12, 2026. My earlier discoveries and upstream contributions retain their personal attribution.
+
 An operator-driven security research workbench for scoped investigations, evidence retention, reproducible analysis, and remediation review. I'm building it around deliberate scope and human-controlled disclosure decisions.
 
 [Explore SecHive.ai](https://sechive.ai)
 
 ### GuardianNode
+
+GuardianNode remains an independent, personally owned open-source public-interest project, separate from the LLC. It is not a registered nonprofit organization.
 
 A local-first AI safety project for families, with a visible Windows agent, a parent-owned backend, local analysis, encrypted evidence storage, and a parent review dashboard. It's currently an **alpha / developer preview** built to support review and conversation, not replace human judgment.
 
@@ -43,7 +47,7 @@ A local-first RTSP camera wall for Raspberry Pi and Linux, with a visual layout 
 
 ### More of my work
 
-- [ThreatHive](https://github.com/the-vibe-dev/threathive-public) — defensive honeypot telemetry and controlled lab analysis; public alpha.
+- [ThreatHive overview](https://sechive.ai/about.html#projects) — defensive honeypot telemetry and controlled lab analysis. The repository is not currently publicly accessible.
 - [Dashburg](https://github.com/the-vibe-dev/dashburg-public) — a local-first control center for agents, nodes, and AI infrastructure.
 
 ## Connect
