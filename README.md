@@ -10,7 +10,13 @@ My research spans authorization failures, sandbox escapes, parsers and deseriali
 
 ## Security research
 
-My public work includes **54 CVEs**, **18 repository GitHub Security Advisories**, and **four accepted Linux mainline fixes**, across **59 CVE/GHSA-identified research cases**. The CVE total includes three Linux kernel findings. My kernel contributions include two authored SCTP patches and two KSMBD findings credited through `Reported-by`, with eighteen verified stable backports across those fixes.
+<!-- public-research:begin -->
+**59 distinct public cases · 54 CVEs · 18 repository GHSAs · 4 accepted Linux mainline fixes.**
+
+Linux credit: 2 authored patches, 2 Reported-by fixes, 18 verified stable backports. CVE/GHSA aliases share a case rather than adding to the case count.
+
+Public evidence checked 2026-11-14. [Case inventory and source/role metadata](https://github.com/the-vibe-dev/CVE-GHSA/blob/main/data/public-research.json). Additional unassigned upstream reports remain separate.
+<!-- public-research:end -->
 
 I've contributed research affecting projects including **Apache HTTP Server, Apache Fory, Apache OFBiz, vm2, PyJWT, TypeBox, isomorphic-git, fast-xml-parser, launch-editor, libheif, KEDA, and Yamcs**, alongside WordPress plugins and payment integrations. My additional public upstream work includes reported issues in **libucl** and **cert-manager**, with fixes merged upstream.
 
@@ -25,9 +31,9 @@ In cert-manager, my report led to a merged fix enforcing ownership of the Secret
 
 ### SecHive.ai
 
-SecHive is the cybersecurity research operation of **TideCore Technology Services LLC**, a North Carolina limited liability company formed November 12, 2026. My earlier discoveries and upstream contributions retain their personal attribution.
+SecHive is the cybersecurity research operation of **TideCore Technology Services LLC**, a North Carolina limited liability company. My earlier discoveries and upstream contributions retain their personal attribution.
 
-An operator-driven security research workbench for scoped investigations, evidence retention, reproducible analysis, and remediation review. I'm building it around deliberate scope and human-controlled disclosure decisions.
+The public research identity for scoped investigations, reproducible analysis and remediation review. The underlying tools are works in progress; TideCore is not currently selling software access, subscriptions or commercial packages. Existing open-source licenses remain unchanged.
 
 [Explore SecHive.ai](https://sechive.ai)
 
@@ -55,5 +61,3 @@ A local-first RTSP camera wall for Raspberry Pi and Linux, with a visual layout 
 I'm interested in collaborating with maintainers, security researchers, and builders working on open-source security and practical tooling.
 
 [LinkedIn](https://www.linkedin.com/in/charles-vosburgh/) · [Security research](https://github.com/the-vibe-dev/CVE-GHSA) · [Linux contributions](https://github.com/the-vibe-dev/Linux-Kernel) · [SecHive.ai](https://sechive.ai)
-
-<sub>Public research snapshot updated November 12, 2026. CVE and GHSA counts overlap; additional unassigned findings in libucl and cert-manager are tracked separately.</sub>
